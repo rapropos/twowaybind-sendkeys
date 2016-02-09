@@ -1,0 +1,7 @@
+{
+  "name": "twowaybind-sendkeys",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "protractor": "^3.1.0"
+  }
+}
